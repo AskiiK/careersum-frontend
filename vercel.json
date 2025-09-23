@@ -4,6 +4,18 @@
         "source": "/(.*)",
         "destination": "/index.html"
       }
-    ]
+    ],
+    "counselling": {
+        "fee": 499,
+        "currency": "INR"
+    },
+    "booking": {
+        "discoveryCall": {
+            "free": true,
+            "counsellingFee": 499
+        }
+    },
+    "messages": {
+        "booking": "Book for free, but the counselling is for ₹499."
+    }
   }
-  
