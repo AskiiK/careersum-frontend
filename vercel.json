@@ -5,10 +5,6 @@
         "destination": "/index.html"
       }
     ],
-    "counselling": {
-        "fee": 499,
-        "currency": "INR"
-    },
     "booking": {
         "discoveryCall": {
             "free": true,
